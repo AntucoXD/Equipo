@@ -43,6 +43,6 @@ public class Racional {
 		int denominador = racional1.denominador * racional2.denominador;
 		return new Racional(numerador, denominador);
 	}
-}
+}//hola
 
 
